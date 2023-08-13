@@ -4,15 +4,15 @@ This is a Basic Stopwatch that is capable of keeping track of the time passed.
 
 ## Light Mode
 
-![Light_Mode](https://user-images.githubusercontent.com/113718177/208163983-d78bb5cc-e3b4-45b1-9f1c-f3e18a70de5d.png)
+![stopwatch_light](https://github.com/SohamBarma08/Stopwatch/assets/113718177/19d0f98b-0e9e-4dc6-a2bd-0574a3dc7e98)
 
-> This is the Light Mode View of the Calculator App.
+> This is the Light Mode View of the Stopwatch App.
 
 ## Dark Mode
 
-![Dark_Mode](https://user-images.githubusercontent.com/113718177/208163990-854083f9-a087-49c8-ae8a-b710ead10d7a.png)
+![stopwatch_dark](https://github.com/SohamBarma08/Stopwatch/assets/113718177/173c14d4-3dc2-44e1-adac-5764b4b0f0a1)
 
-> This is the Dark Mode View of the Calculator App.
+> This is the Dark Mode View of the Stopwatch App.
 
 ## Technologies Used
 
